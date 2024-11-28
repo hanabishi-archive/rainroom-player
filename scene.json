@@ -1,8 +1,8 @@
 {
-  "build": "yn90e5b3af1c8d2476",
+  "build": "yn3d8a15f0b792e6c4",
   "version": "v0.4",
   "resource": "S17",
-  "layout": "4:3",
-  "advance": "auto",
+  "layout": "W16",
+  "advance": "manual",
   "schema": 1
 }
