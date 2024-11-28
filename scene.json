@@ -1,8 +1,8 @@
 {
-  "build": "ync21b7068fa4d935e",
+  "build": "yn6a4f12c8d9037be5",
   "version": "v0.4",
-  "resource": "S18",
+  "resource": "S17",
   "layout": "W16",
   "advance": "auto",
-  "schema": 1
+  "schema": 2
 }
